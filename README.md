@@ -1,18 +1,19 @@
 # NewsCorp
 
-READEME Contents:
-1.0.  How to run the project?
-1.1.  Some more stuff...
-2.0.  Tools used
-2.1.  Poetry
-2.2.  Ruff
-2.3.  Docker
-3.0.  How I approached the problem
-4.0.  Folder structure
-5.0.  Requirements
+## READEME Contents:
+
+1. How to run the project?
+    1. Some more stuff...
+2.  Tools used
+    1. Poetry
+    2. Ruff
+    3. Docker
+3. How I approached the problem
+4. Folder structure
+5. Requirements
 
 
-## 1.0.  How to run the project?
+## 1. How to run the project?
 
 ```bash
 ./run
