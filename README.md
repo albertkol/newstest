@@ -92,16 +92,16 @@ performance.
 
 
 ## 4.0.  Folder structure
-`data`: Where the `input` and `output` data resides
-`newscorp`: App folder, `main.py` is where the app is ran.
-`newscorp.modules`: Contains 3 important files:
-    `data_modules`: The data structures of the `hitlog` 
+- `data`: Where the `input` and `output` data resides
+- `newscorp`: App folder, `main.py` is where the app is ran.
+- `newscorp.modules`: Contains 3 important files:
+    - `data_modules`: The data structures of the `hitlog` 
     input and output rows 
-    `data_processor`: The functions that process the rows
-    `file_handler`: The functions that read and write files
-`tests`: Tests folder
-`run`: Bash script to run project with some extra features
-`scripts.py`: Poetry scripts
+    - `data_processor`: The functions that process the rows
+    - `file_handler`: The functions that read and write files
+- `tests`: Tests folder
+- `run`: Bash script to run project with some extra features
+- `scripts.py`: Poetry scripts
 
 
 ## 5.0.  Requirements
@@ -119,7 +119,7 @@ Build a pipeline in python3 which uses `hitlog.csv` as a source file and output 
 
 ## Example 
 We have three different journeys for three different users:
-`user1`: `article#1` -> `article#2` -> `article#3` -> **registration** 
-`user2`: `article#1` -> **registration**
-`user3`: `article#2` -> `article#1` -> **registration**
+- `user1`: `article#1` -> `article#2` -> `article#3` -> **registration** 
+- `user2`: `article#1` -> **registration**
+- `user3`: `article#2` -> `article#1` -> **registration**
 `article#1` is the most influential article with a total number of 3 as it was part of all journeys.
