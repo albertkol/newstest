@@ -1,0 +1,10 @@
+page_name,page_url,user_id,timestamp
+Article 1,/articles/article#1,user1,2020-01-01 00:00:00
+Article 2,/articles/article#2,user1,2020-01-01 00:00:10
+Article 3,/articles/article#3,user1,2020-01-01 00:00:20
+Registration,/register,user1,2020-01-01 00:00:30
+Article 1,/articles/article#1,user2,2020-01-01 00:00:00
+Registration,/register,user2,2020-01-01 00:00:10
+Article 2,/articles/article#2,user3,2020-01-01 00:00:40
+Article 1,/articles/article#1,user3,2020-01-01 00:00:50
+Registration,/register,user3,2020-01-01 00:00:60
